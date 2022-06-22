@@ -1,2 +1,18 @@
-/* base */
-@import '../base/base.css
+/*base*/
+@import"../css/base/base.css";
+@import"../css/base/layout.css";
+
+/*3rd-party*/
+
+/*components*/
+@import"../css/components/button.css";
+@import"../css/components/clock.css";
+@import"../css/components/form.css";
+@import"../css/components/mouse.css";
+@import"../css/components/progress-bar.css";
+
+/* custom style goes below thiz coment line,PLEASE*/
+
+body{
+    background-color: aqua;
+}
