@@ -1,18 +1,19 @@
 /*base*/
-@import"../css/base/base.css";
-@import"../css/base/layout.css";
+@import"../base/base.css";
+@import"../base/layout.css";
 
 /*3rd-party*/
 
 /*components*/
-@import"../css/components/button.css";
-@import"../css/components/clock.css";
-@import"../css/components/form.css";
-@import"../css/components/mouse.css";
-@import"../css/components/progress-bar.css";
+@import"../components/button.css";
+@import"../components/clock.css";
+@import"../components/form.css";
+@import"../components/mouse.css";
+@import"../components/progress-bar.css";
 
-/* custom style goes below thiz coment line,PLEASE*/
+/* custom style goes Coming soon thiz coment line,PLEASE*/
 
 body{
     background-color: aqua;
 }
+
